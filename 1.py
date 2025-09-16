@@ -63,10 +63,6 @@ print('Hello ', 'world', '!', sep='$')
 # print('a // b =', a // b)
 # print('a % b =', a % b)
 
-
-
-
-
 a = 30
 k = 7
 print(a / k)
